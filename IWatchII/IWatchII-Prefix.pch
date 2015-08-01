@@ -1,0 +1,30 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <CoreData/CoreData.h>
+#import "BaseConfigManager.h"
+#import "UserInfoManager.h"
+#import "UMSocial.h"
+#import "UIImageView+WebCache.h"
+#import "UIButton+WebCache.h"
+
+#endif
+
+#define Default_Color [UIColor colorWithRed:0.14 green:0.16 blue:0.18 alpha:1.0]
+#define REFRESH @"refresh"
+#define LOGIN @"loginAgain"
+#define SERVER_URL @"http://www.iwatch365.com/json/iphone/"
+//#define UmengAppkey @"546d50c4fd98c527e50012bc"
+#define APPKEY @"54892ad9fd98c545920005ab"

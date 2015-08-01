@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string></string>
+	<string>biaojing &lt; 36</string>
+	<string>biaojing &gt; 36 and biaojing &lt; 39</string>
+	<string>biaojing &gt; 39 and biaojing &lt; 42</string>
+	<string>biaojing &gt; 42 and biaojing &lt;45</string>
+	<string>biaojing &gt; 45</string>
+</array>
+</plist>

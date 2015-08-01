@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string></string>
+	<string>guoneijia = 3000</string>
+	<string>guoneijia &gt; 3000 and guoneijia &lt; 8000</string>
+	<string>guoneijia &gt; 8000 and guoneijia &lt; 15000</string>
+	<string>guoneijia &gt; 15000 and guoneijia &lt; 50000</string>
+	<string>guoneijia &gt; 50000 and guoneijia &lt; 100000</string>
+	<string>guoneijia &gt; 100000 and guoneijia &lt; 150000</string>
+	<string>guoneijia &gt; 150000</string>
+</array>
+</plist>

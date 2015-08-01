@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>不限</string>
+	<string>日期显示</string>
+	<string>星期显示</string>
+	<string>月份显示</string>
+	<string>年历显示</string>
+	<string>大日历</string>
+	<string>万年历</string>
+	<string>月相</string>
+	<string>世界时</string>
+	<string>计时</string>
+	<string>动力储备显示</string>
+	<string>长动力</string>
+	<string>飞返</string>
+	<string>逆跳</string>
+	<string>防磁</string>
+	<string>陀飞轮</string>
+	<string>气压</string>
+	<string>海拔</string>
+	<string>湿度</string>
+	<string>全镂空</string>
+	<string>闹表</string>
+	<string>测速</string>
+	<string>夜光</string>
+	<string>防水</string>
+	<string>其他功能</string>
+</array>
+</plist>

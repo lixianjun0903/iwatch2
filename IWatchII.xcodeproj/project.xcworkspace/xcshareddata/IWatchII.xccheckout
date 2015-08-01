@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E0A17AB3-4247-482A-AF0E-CF3D47631687</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IWatchII</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>f7194a3e-7800-0846-bf68-50169b263600</key>
+		<string>https://192.168.1.79/svn/iwatch2</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IWatchII.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>f7194a3e-7800-0846-bf68-50169b263600</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>f7194a3e-7800-0846-bf68-50169b263600</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>f7194a3e-7800-0846-bf68-50169b263600</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iwatch2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

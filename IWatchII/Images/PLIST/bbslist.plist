@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>顶级奢华</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>爱彼</string>
+			<key>enname</key>
+			<string>Audemars Piguet</string>
+			<key>image</key>
+			<string>watch001.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>艾米龙</string>
+			<key>enname</key>
+			<string>Emile Chouriet</string>
+			<key>image</key>
+			<string>watch002.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>艾美</string>
+			<key>enname</key>
+			<string>Maurice Lacroix</string>
+			<key>image</key>
+			<string>watch003.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>爱马仕</string>
+			<key>enname</key>
+			<string>Hermès</string>
+			<key>image</key>
+			<string>watch004.png</string>
+		</dict>
+	</array>
+	<key>经典奢华</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>百达翡丽</string>
+			<key>enname</key>
+			<string>PATEK PHILIPPE</string>
+			<key>image</key>
+			<string>watch005.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>宝珀</string>
+			<key>enname</key>
+			<string>Blancpain</string>
+			<key>image</key>
+			<string>watch006.png</string>
+		</dict>
+	</array>
+	<key>平易近人</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>爱彼</string>
+			<key>enname</key>
+			<string>Audemars Piguet</string>
+			<key>image</key>
+			<string>watch001.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>艾米龙</string>
+			<key>enname</key>
+			<string>Emile Chouriet</string>
+			<key>image</key>
+			<string>watch002.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>艾美</string>
+			<key>enname</key>
+			<string>Maurice Lacroix</string>
+			<key>image</key>
+			<string>watch003.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>爱马仕</string>
+			<key>enname</key>
+			<string>Hermès</string>
+			<key>image</key>
+			<string>watch004.png</string>
+		</dict>
+	</array>
+</dict>
+</plist>
